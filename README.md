@@ -10,4 +10,4 @@ Transaction status
 Transfer table/ Transfer History which records all the transactions
 Flow: Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-Want to check out. Click on the [Link](https://Richierich-bank.github.io/)
+
